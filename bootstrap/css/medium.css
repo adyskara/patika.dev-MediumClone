@@ -1,0 +1,30 @@
+.bg-yellow {
+    background-color:#FFC017; 
+}
+
+.border-bottom-1 {
+    border-bottom: 1px solid #414141;
+}
+
+.border-bottom-2 {
+    border-bottom: 1px solid #c0baba;
+
+}
+
+.button-last {
+    border-color: #c0baba;
+    margin: 2px;
+}
+
+.list-last {
+    text-decoration:none;
+    padding: 10px;
+}
+
+
+.fixedmenu{
+    position: fixed;
+    width: 1000px;
+    z-index: 999;
+    top: 0;
+}
